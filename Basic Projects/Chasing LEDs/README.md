@@ -11,7 +11,7 @@ The project consists of 4 layers:
 2. Microcontroller Absstraction Layer (MCAL) which consists of one driver/module which is the DIO driver
 3. Electronic Control Unit Abstraction Layer which consits of one driver/module which is the LED driver
 4. Application Layer which contains the application logic
-<img src="static-architecture.png" style="width: 750px; height: auto">
+<img src="static-architecture.png" style="width: 500px; height: auto">
 
 ## Usage
 There are two options to use the project:
