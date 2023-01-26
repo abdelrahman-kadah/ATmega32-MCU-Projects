@@ -3,7 +3,7 @@ In this project, 8 LEDs are connected to PORTC of an ATmega32 microcontroller an
 The program turns ON the LEDs in an anclockwise manner with 500 ms delay between each output. The net result is that LEDs seem to be chasing each other.
 
 ## Project Hardware
-<img src="Chasing LEDs/Circuit Design.PNG" alt="Chasing LEDs Circuit"></img>
+<img src="Circuit Design.PNG" alt="Chasing LEDs Circuit">
 
 ## Static Architecture
 The project consists of 4 layers:
@@ -11,6 +11,7 @@ The project consists of 4 layers:
 2. Microcontroller Absstraction Layer (MCAL) which consists of one driver/module which is the DIO driver
 3. Electronic Control Unit Abstraction Layer which consits of one driver/module which is the LED driver
 4. Application Layer which contains the application logic
+<img src="static-architecture.png" style="width: 750px; height: auto">
 
 ## Usage
 There are two options to use the project:
