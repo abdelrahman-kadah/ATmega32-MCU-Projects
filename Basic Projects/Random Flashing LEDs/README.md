@@ -11,7 +11,7 @@ fashion, and it is interesting to watch them flashing.
 ## Static Architecture
 The project consists of 3 layers:
 1. Micrcontroller Layer which represents the ATmega32 microcontroller
-2. Microcontroller Absstraction Layer (MCAL) which consists of one driver/module which is the DIO driver
+2. Microcontroller Abstraction Layer (MCAL) which consists of one driver/module which is the DIO driver
 3. Application Layer which contains the application logic
 <img src="static-architecture2.png" style="width: 500px; height: auto">
 
