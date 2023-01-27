@@ -1,4 +1,4 @@
-# Chasing LEDs
+# Random Flashing LEDs
 In this project, eight LEDs are connected to PORTC of a ATmega32-type
 microcontroller, and the microcontroller is operated from an 8-MHz crystal. An integer
 random number is generated between 1 and 255 every second, and the LEDs are turned
