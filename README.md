@@ -5,7 +5,7 @@ Basic-to-advanced embedded software projects based on the ideas found on Dogan I
 ### <a href="Basic Projects">Basic Projects</a>
 1. <a href="Basic Projects/Chasing LEDs">Chasing LEDs</a>
 2. <a href="Basic Projects/Complex Flashing LED">Complex Flashing LED</a>
-3. Random Flashing LEDs
+3. <a href="Basic Projects/Random Flashing LEDs">Random Flashing LEDs</a>
 4. Logic Probe
 5. LED Dice
 6. Two-Dice Project
