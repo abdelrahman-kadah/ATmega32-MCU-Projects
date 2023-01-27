@@ -1,12 +1,12 @@
 # LED Dice
-In this project 7 LEDs are connected to PORTC of a ATmega32 microcontroller and the
-microcontroller is operated from an 8 MHz crystal. The LEDs are organized as the faces
-of a real dice. When a push-button switch connected to PB0 is pressed a dice pattern is
-displayed on the LEDs. The display remains in this state for 500 ms and after this period
-the LEDs all turn OFF to indicate that the system is ready for the button to be pressed again
+In this project 7 LEDs are connected to PORTC of a ATmega32 microcontroller and 7 LEDs to
+PORTD. The microcontroller is operated from an 8 MHz crystal. The LEDs are organized as the
+faces of a real dice. When a push-button switch connected to PB0 is pressed a dice pattern is
+displayed on the LEDs. The display remains in this state for 500 ms and after this period the
+LEDs all turn OFF to indicate that the system is ready for the button to be pressed again.
 
 ## Project Hardware
-<img src="design.PNG" alt="LED Dice Circuit">
+<img src="design.PNG" alt="Two-Dice Project Circuit">
 
 ## Static Architecture
 The project consists of 4 layers:
