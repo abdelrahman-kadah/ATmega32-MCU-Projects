@@ -8,7 +8,7 @@ The program turns ON the LEDs in an anclockwise manner with 500 ms delay between
 ## Static Architecture
 The project consists of 4 layers:
 1. Micrcontroller Layer which represents the ATmega32 microcontroller
-2. Microcontroller Absstraction Layer (MCAL) which consists of one driver/module which is the DIO driver
+2. Microcontroller Abstraction Layer (MCAL) which consists of one driver/module which is the DIO driver
 3. Electronic Control Unit Abstraction Layer which consits of one driver/module which is the LED driver
 4. Application Layer which contains the application logic
 <img src="static-architecture.png" style="width: 500px; height: auto">
