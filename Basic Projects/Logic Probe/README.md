@@ -1,4 +1,4 @@
-# Logic Probe
+# LED Dice
 This project is a simple logic probe. A logic probe is used to indicate the logic status of an
 unknown digital signal. In a typical application, a test lead (probe) is used to detect the
 unknown signal, and two different color LEDs are used to indicate the logic status. If, for
