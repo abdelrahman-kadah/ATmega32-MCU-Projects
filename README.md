@@ -1,5 +1,5 @@
 # ATmega32-MCU-Projects
-Basic-to-advanced embedded software projects based on the ideas found on Dogan Ibrahim book "PIC Microcontroller Projects In C : Basic To Advanced".
+Basic-to-advanced embedded software projects based on the ideas found on Dogan Ibrahim book <a href="https://www.amazon.eg/D-Ibrahim/dp/B09B31B7PF">PIC Microcontroller Projects In C : Basic To Advanced</a>.
 
 ## Table of Contents
 ### <a href="Basic Projects">Basic Projects</a>
