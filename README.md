@@ -10,7 +10,7 @@ Basic-to-advanced embedded software projects based on the ideas found on Dogan I
 5. <a href="Basic Projects/LED Dice">LED Dice</a>
 6. <a href="Basic Projects/Two-Dice Project">Two-Dice Project</a>
 7. <a href="Basic Projects/Two-Dice Project Using Fewer Pins">Two-Dice Project using Fewer I/O Pins</a>
-8. 7-Segment LED Counter
+8. <a href="Basic Projects/Seven Segment LED Counter">7-Segment LED Counter</a> 
 9. Two-Digit Multiplexed 7-Segment LED
 10. Four-Digit Multiplexed 7-Segment LED
 11. LED Voltmeter
