@@ -1,5 +1,5 @@
 # Seven Segment LED Counter
-In this project a common anode 7-segment LED display is connected to PORTC of a ATmega32
+In this project a common cathode 7-segment LED display is connected to PORTC of a ATmega32
 microcontroller and the microcontroller is operated from an 8 MHz crystal. The program displays
 numbers 0 to 9 on the display with a 500 ms delay between each output.
 
